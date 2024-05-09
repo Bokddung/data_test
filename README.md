@@ -52,6 +52,7 @@
 ---
 
 # 도움이 되었던 사이트들
+---
 
 스트림릿 CSS 적용법 : https://blog.firstpenguine.school/105
 
@@ -59,6 +60,7 @@
 
 스트림릿 chart 참고글 : https://luvris2.tistory.com/103#google_vignette
 
+---
 # 데이터 수집 참고했던 사이트
 
 ---
