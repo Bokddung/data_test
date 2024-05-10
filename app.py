@@ -54,19 +54,6 @@ def plot_countplot(df, x_col, hue=None, title=None, order=None, figsize=(12, 8))
 # 메인 함수
 def main():
 
-    # 스타일 시트 추가 (CSS)
-    st.markdown(
-        """
-        <style>
-            /* 주어진 셀렉터의 배경 색상을 연두색으로 변경 */
-            #root > div:nth-child(1) > div.withScreencast > div > div > div > section.st-emotion-cache-vk3wp9.eczjsme11 {
-                background: #ccff99;  /* 연두색 배경 */
-            }
-        </style>
-        """,
-        unsafe_allow_html=True,
-    )
-
     # 배경 이미지 추가
     add_bg_from_url()
 
